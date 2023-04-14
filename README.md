@@ -6,7 +6,9 @@ To use, just download the latest version of python on python site
 And do those pip installs: 
 
 librosa
+
 numpy
+
 matplot.lib
 
 And finally exec the file PY
