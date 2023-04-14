@@ -1,4 +1,4 @@
-﻿import librosa
+import librosa
 import librosa.display
 import numpy as np
 import matplotlib.pyplot as plt
@@ -68,7 +68,7 @@ def analisar_e_comparar():
     canvas.get_tk_widget().pack(side='top', fill='both', expand=True)
 
 janela = Tk()
-janela.title('Comparador de Áudio')
+janela.title('Comparador de Áudio por Kimi Morgam')
 janela.state('zoomed')
 
 resultado_var = StringVar()
